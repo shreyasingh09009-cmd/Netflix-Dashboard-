@@ -1,1 +1,1 @@
-# Netflix-Dashboard-
+# PowerBI Dashboard project
